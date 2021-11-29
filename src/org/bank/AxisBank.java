@@ -15,6 +15,12 @@ super.deposit(134);
 		AxisBank a=new AxisBank();
 		a.deposit(250);
 	}
+
+	private void bank() {
+		// TODO Auto-generated method stub
+
+	}
+
 	public void transfer() {
 		System.out.println("Money transfer to push");
 		
