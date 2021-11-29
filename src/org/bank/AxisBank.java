@@ -15,4 +15,8 @@ super.deposit(134);
 		AxisBank a=new AxisBank();
 		a.deposit(250);
 	}
+	private void bank() {
+		// TODO Auto-generated method stub
+
+	}
 }
