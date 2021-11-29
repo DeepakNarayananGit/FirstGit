@@ -15,4 +15,10 @@ super.deposit(134);
 		AxisBank a=new AxisBank();
 		a.deposit(250);
 	}
+	public void transfer() {
+		System.out.println("Money transfer to push");
+		
+		System.out.println("fisrt dev conflict");
+	}
+	
 }
